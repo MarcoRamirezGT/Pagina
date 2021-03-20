@@ -1,0 +1,16 @@
+{
+  "name": "pagina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "async": "node asyncFullTable.js",
+    "tx": "node tx.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}
